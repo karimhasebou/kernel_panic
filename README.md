@@ -20,3 +20,6 @@ make run
 - [ ] loading kernel image
 - [ ] system call for printing
 - [ ] ...
+
+# References
+http://www.brokenthorn.com/
